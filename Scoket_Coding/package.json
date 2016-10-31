@@ -1,0 +1,19 @@
+{
+  "name": "socet_coding",
+  "version": "1.0.0",
+  "description": "socet examples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webscokets"
+  ],
+  "author": "Nikolay Nikolov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
